@@ -1,0 +1,28 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Eat Burgers using this App!",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingdamia/Eat-Da-Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingdamia/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/flyingdamia/Eat-Da-Burger#readme"
+}

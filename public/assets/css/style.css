@@ -1,0 +1,91 @@
+ html {
+ 	background-color: rgb(250, 162, 184);
+ }
+
+ body {
+ 	width: 75%;
+	margin: 0 auto; 
+
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: white;
+ }
+
+ 
+ .addedBur {
+	margin: 0;
+	padding: 10px;
+	background-color: rgb(255, 249, 163);
+	border: none; 
+	font-family: 'Margarine', cursive;
+ 	font-weight: normal;
+ 	font-size: 20px;
+ 	text-align: center;
+ 	border-radius: 25px;
+ 	width: 100%;
+ 
+ }
+
+.addedBur:active {
+	background-color:rgb(250, 162, 184);
+}
+
+.burgerFooter {
+	background-color: rgb(250, 162, 184);
+	padding: 20px 0;
+}
+#some_burger {
+	display: block;
+   margin: auto;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 65px;
+	margin: 50px;
+}
+
+.madeBurger {
+	font-family: 'Fredoka One', cursive;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+
+	border-radius: 25px;
+	width: 100%;
+	margin: 10px;
+	padding: 10px;
+	background-color: rgb(255, 249, 163);
+	border: none;
+}
+
+.madeBurger:hover {
+	background-color:rgb(255, 249, 163);
+}
+
+.eaten {
+   border-radius: 25px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #92ffd5; 
+   font-family: 'Fredoka One', cursive;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+
+	
+}
+
+h2 {
+	 text-align: center;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 40px;
+	margin: 50px;
+}
+
+.formContainer {
+	background-color: rgb(250, 162, 184);
+}
+
